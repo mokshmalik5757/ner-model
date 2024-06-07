@@ -1,0 +1,8 @@
+env
+.vscode
+tmp_trainer
+INT0001_202401170501.csv
+INT0001_202401190501.csv
+ner model.zip
+Lambda_UK.ipynb
+main.py

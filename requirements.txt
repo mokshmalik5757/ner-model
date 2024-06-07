@@ -1,0 +1,7 @@
+torch
+transformers[torch]
+transformers 
+datasets 
+evaluate 
+seqeval
+python-dotenv
